@@ -1,5 +1,5 @@
 <?php
 echo date('Y-m-d H:i:s');
-echo ('\r by ymz update \r');
+echo ('\t by ymz update \t');
 echo phpinfo();
 

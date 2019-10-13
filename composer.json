@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": "7.1.21",
+        "php": "7.3.3",
         "ext-memcached": "*",
         "ext-apcu":"*",
         "ext-redis":"*"

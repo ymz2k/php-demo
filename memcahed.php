@@ -18,7 +18,8 @@ try {
 }catch(Exception $e) {
     $memcache_info = $e;
     $session_info = "";
-}   
+} 
+echo 'memcache test!';
 ?>
 
 <!DOCTYPE html>

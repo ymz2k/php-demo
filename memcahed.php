@@ -19,7 +19,7 @@ try {
     $memcache_info = $e;
     $session_info = "";
 } 
-echo 'memcache test!';
+echo 'memcache test!12';
 ?>
 
 <!DOCTYPE html>
